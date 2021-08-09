@@ -1,0 +1,1 @@
+print("news 1")
