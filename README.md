@@ -9,16 +9,16 @@ You can even put here links like [this one](http://github.com/)
 
 How about _Italic text_ or **Bold** or **this** one
 
-- Ttem1
-- Item2
-- Item3
-  - Item3.1
-  - Item3.2
+- Item 1
+- Item 2
+- Item 3
+  - Item 3.1
+  - Item 3.2
 
 1. Item
-2. Item
-3. Item
-4. Item
+1. Item
+   1. Item
+   1. Item
 
 ### Code snippets
 
